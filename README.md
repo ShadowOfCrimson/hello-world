@@ -1,3 +1,7 @@
+# This message is an initial edit
+
+This edit marks the first commit on GitHub I have 9/2/2019.
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
